@@ -18,7 +18,8 @@ depois disso retorne o resultado para uma variável "nivel" que definirá o nív
 
 O nível é o saldo de Rankeadas, que deve ser feito através do calculo (vitórias - derrotas).
 
-**Níveis:**
+Níveis:
+
 Se vitórias for menor do que 10 = Ferro <br>
 Se vitórias for entre 11 e 20 = Bronze <br>
 Se vitórias for entre 21 e 50 = Prata <br>
